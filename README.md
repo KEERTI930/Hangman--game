@@ -19,7 +19,7 @@ A classic Hangman word-guessing game built using **HTML**, **CSS**, and **JavaSc
 
 ## 📸 Screenshot
 
-![Alt Text]()
+![Alt Text](https://raw.githubusercontent.com/KEERTI930/Hangman--game/71bb0f39fed94de2964c646678788ef26a0a1e72/Screenshot%20(215).png)
 ![Alt Text]()
 ![Alt Text]()
 ![Alt Text]()
