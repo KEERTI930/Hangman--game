@@ -16,3 +16,7 @@ A classic Hangman word-guessing game built using **HTML**, **CSS**, and **JavaSc
 2. Guess the word by clicking letter buttons.
 3. Each wrong guess draws a part of the hangman.
 4. Guess all letters before 6 wrong guesses to win.
+
+## 📸 Screenshot
+
+![]()
