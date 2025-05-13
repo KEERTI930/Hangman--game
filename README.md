@@ -22,4 +22,4 @@ A classic Hangman word-guessing game built using **HTML**, **CSS**, and **JavaSc
 ![Alt Text](https://raw.githubusercontent.com/KEERTI930/Hangman--game/71bb0f39fed94de2964c646678788ef26a0a1e72/Screenshot%20(215).png)
 ![Alt Text](https://github.com/KEERTI930/Hangman--game/blob/main/Screenshot%20(214).png?raw=true)
 ![Alt Text](https://github.com/KEERTI930/Hangman--game/blob/main/Screenshot%20(213).png?raw=true)
-![Alt Text]()
+![Alt Text](https://github.com/KEERTI930/Hangman--game/blob/main/Screenshot%20(212).png?raw=true)
